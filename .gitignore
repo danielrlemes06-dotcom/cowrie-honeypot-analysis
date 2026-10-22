@@ -1,0 +1,5 @@
+cowrie.json
+*.log
+cowrie-env/
+venv/
+__pycache__/
